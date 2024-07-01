@@ -7,4 +7,8 @@ public class Main {
                 + " dias para o ano novo!");
 
     }
+
+    public void dovalos(){
+        System.out.println("No meu trabalho uso apenas SVN");
+    }
 }
